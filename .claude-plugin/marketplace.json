@@ -1,0 +1,29 @@
+{
+  "name": "karpathy-skills",
+  "id": "karpathy-skills",
+  "owner": {
+    "name": "hawkeye"
+  },
+  "metadata": {
+    "description": "行为准则，用于减少 LLM 编码中的常见错误，源自 Andrej Karpathy 的观察",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "andrej-karpathy-skills-zh",
+      "source": "./",
+      "description": "行为准则，用于减少 LLM 编码中的常见错误：编码前思考、简洁优先、精准修改、目标驱动执行",
+      "version": "1.0.0",
+      "author": {
+        "name": "hawkeye"
+      },
+      "keywords": [
+        "指南",
+        "最佳实践",
+        "编码",
+        "karpathy"
+      ],
+      "category": "工作流"
+    }
+  ]
+}

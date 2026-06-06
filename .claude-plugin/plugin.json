@@ -1,0 +1,11 @@
+{
+  "name": "andrej-karpathy-skills-zh",
+  "description": "旨在减少常见大语言模型（LLM）编码错误的行动指南，基于 Andrej Karpathy 对 LLM 编码常见误区的观察总结",
+  "version": "1.0.0",
+  "author": {
+    "name": "hawkeye"
+  },
+  "license": "MIT",
+  "keywords": ["指南", "最佳实践", "编码", "karpathy"],
+  "skills": ["./skills/karpathy-guidelines"]
+}
